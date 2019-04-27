@@ -41,9 +41,34 @@
 				}
 				
 	---维护主体
+【2】---【2019.4.27】---【aaapples】--->【周末还要上课，晚上做实验作业，提升得很快】
+-	
+	
+	---维护主体
+	
+	坚持写技术文档，只需要二十一天。
+	养成一个好习惯。
+	写文章，可以丰富自己。
+	也可以带给人快乐。
+	提升自己，也可以带给别人帮助。
+	
+	【选中】方法：if (c is CheckBox && ((CheckBox)c).Checked == true)
+	【遍历】groupBox容器选中的控件：
+		    
+	foreach (Control b in groupBox2.Controls)
+				{
+					if (b is RadioButton && ((RadioButton)b).Checked == true)
+					{
+						// count2 = Convert.ToInt32(b.Text);
+					}
+				}
 	
 
-
+	▣容器：groupBox
+	▢：CheckBox
+	◯：RadioButton
+	
+	---维护主体
 
 
 
